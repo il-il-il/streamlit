@@ -6,3 +6,5 @@ Streamlit is a python framework for developing web applications especially for D
 Compactible with Scikit, keras, numpy, pandas
 
 Easy to deploy
+
+1- Basic Text Elements
